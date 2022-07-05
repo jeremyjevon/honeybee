@@ -1,4 +1,4 @@
-paramiko==2.1.2
-python2-nmap
+paramiko
+python-nmap
 ftplib
 requests
