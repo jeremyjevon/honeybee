@@ -12,7 +12,7 @@ def cipherspecTest(host):
     t.start_client()
     #k = t.get_remote_server_key()
     a = t.get_security_options()
-    print t.host_key.__dict__
+    print (t.host_key.__dict__)
     #print("ATTRS OF KEY: ", t.host_key.__dict__)
     print(str(t.host_key.size))
     
