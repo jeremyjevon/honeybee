@@ -9,5 +9,5 @@
 ```
 sudo su
 pip3 install -r requirements.txt
-python3 honeybee.py <ip-address>
+python3 glastopf.py <ip-address>
 ```
